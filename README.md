@@ -1,7 +1,7 @@
 # hashtag-ankita
  
-<h1 align="center">Hi 👋, I'm Ankita Dey.</h1>
-<h3 align="center">A CSE Undergrad from India</h3>
+<h1 align="middle">Hi 👋, I'm Ankita Dey.</h1>
+<h3 align="middle">A CSE Undergrad from India, passionate about coding and reading.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashtag-ankita&label=Profile%20views&color=0e75b6&style=flat" alt="hashtag-ankita" /> </p>
 
@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **C++, JS and more about frontend developing.**
 
-- 📫 How to reach me **adey83652@gmail.com**
+- 📫 How to reach me: **adey83652@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ankita-dey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankita-dey" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ankita-dey-8a652b1ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankita-dey" height="30" width="40" /></a>
 <a href="https://instagram.com/author_ankita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="author_ankita" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hashtag-ankita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hashtag-ankita" height="30" width="40" /></a>
 </p>
