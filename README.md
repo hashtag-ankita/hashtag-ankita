@@ -3,7 +3,7 @@
 <h1 align="left">Hi 👋, I'm Ankita Dey.</h1>
 <h3 align="left">A CSE Undergrad from India, passionate about coding and reading.</h3>
 
-- 🔭 I’m currently working on **my discord bot, Viorel.**
+- 🔭 I’m currently grinding **Leetcode**, in an attempt to get better with coding logic and problem-solving.
 
 - 🌱 I’m currently learning **C++, JS and more about frontend developing.**
 
