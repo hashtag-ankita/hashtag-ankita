@@ -22,3 +22,6 @@ And on [LeetCode](https://www.leetcode.com/hashtag-ankita)? Just me, my last bra
 
 > *"I’m not procrastinating. I’m buffering... in real life."*  
 
+---
+### 🎧 Music keeping me sane:  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=89b5k2g1bke304fiwlo8cr2zi&cover_image=true&theme=novatorem&show_offline=true&background_color=0d0c0d&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=89b5k2g1bke304fiwlo8cr2zi&redirect=true)
